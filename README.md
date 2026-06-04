@@ -6,7 +6,7 @@ Sistema de registro de asistencia a reuniones de coordinación territorial de or
 
 ## Cómo usarlo
 
-### La coordinadora (desde el ordenador)
+### El/La coordinador/a (desde el ordenador)
 
 1. Abre [https://coordinacion-territorial.github.io/asistencia/](https://coordinacion-territorial.github.io/asistencia/)
 2. Introduce la contraseña
@@ -17,10 +17,10 @@ Sistema de registro de asistencia a reuniones de coordinación territorial de or
 
 ### Los orientadores (desde el móvil)
 
-1. Escanear el QR proyectado con la cámara del móvil
-2. Rellenar nombre, apellidos, centro y agrupación
-3. Firmar con el dedo
-4. Pulsar **Firmar asistencia** → confirmación inmediata
+1. Escanean el QR proyectado con la cámara del móvil
+2. Rellenan nombre, apellidos, centro y agrupación
+3. Firman con el dedo
+4. Pulsan **Firmar asistencia** → confirmación inmediata
 
 ---
 
@@ -28,7 +28,7 @@ Sistema de registro de asistencia a reuniones de coordinación territorial de or
 
 | Archivo | Descripción |
 |---|---|
-| `index.html` | Aplicación completa (coordinadora + móvil) |
+| `index.html` | Aplicación completa (coordinador/a + móvil) |
 | `README.md` | Este documento |
 
 ---
